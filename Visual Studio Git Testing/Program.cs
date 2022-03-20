@@ -10,6 +10,7 @@ namespace Visual_Studio_Git_Testing
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Goodbye");
         }
     }
 }
